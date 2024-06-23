@@ -1,4 +1,4 @@
-# 🎉 Questo: The Ultimate Fun Bot for Discord!
+# Questo: The Ultimate Fun Bot for Discord! 🎉
 
 ![Banner](https://github.com/Questo-Discord-Bot/.github/blob/main/images/banner.png)
 
