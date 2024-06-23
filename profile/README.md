@@ -1,8 +1,6 @@
-# Questo: The Ultimate Fun Bot for Discord!
+# 🎉 Questo: The Ultimate Fun Bot for Discord!
 
 ![Banner](https://github.com/Questo-Discord-Bot/.github/blob/main/images/banner.png)
-
-## 🎉 The Ultimate Fun Bot for Discord!
 
 Add games like Truth or Dare, Would you Rather, Never have I ever, and Paranoia. Enjoy a counting game and more. Dive into fun with this bot!
 
