@@ -32,5 +32,5 @@ If you have any questions or need support, feel free to reach out to us:
 - 📧 Email: [mailquesto@gmail.com](mailto:mailquesto@gmail.com)
 
 ---
-© 2023-2024 Questo Bot
+© 2023-2024 Questo App
 <!-- Made with ❤️ by the Questo Team -->
